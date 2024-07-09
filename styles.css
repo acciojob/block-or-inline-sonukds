@@ -1,8 +1,33 @@
-
 /* Your CSS Code here. */
-.block {
-            display: block;
-        }
-        .inline {
-            display: inline;
-        }
+block-inline-span{
+	display:inline;
+}
+block-inline-span{
+	display:inline;
+}
+block-inline-input{
+	display:inline;
+}
+block-inline-cite{
+	display:inline;
+}
+block-inline-code{
+	display:inline;
+}
+block-inline-sup{
+	display:inline;
+}
+block-inline-sub{
+	display:inline;
+}
+/* Block */
+block-inline-div{
+	display:block;
+}
+block-inline-p{
+	display:block;
+}
+block-inline-h1{
+	display:block;
+}
+
